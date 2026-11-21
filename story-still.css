@@ -31,7 +31,6 @@
 .ts:not(.is-live) [data-m="la1"]{stroke-dashoffset:0}
 .ts:not(.is-live) [data-m="la1-end"]{opacity:1}
 .ts:not(.is-live) [data-m="n1-obs"]{opacity:1;translate:0 0}
-.ts:not(.is-live) [data-m="n1-int"]{opacity:1;translate:0 0}
 .ts:not(.is-live) [data-m="n1-q"]{opacity:1;translate:0 0}
 .ts:not(.is-live) [data-m="n1-st-read"]{opacity:0}
 .ts:not(.is-live) [data-m="n1-st-write"]{opacity:0}
@@ -74,7 +73,6 @@
 .ts:not(.is-live) [data-m="la2"]{stroke-dashoffset:0}
 .ts:not(.is-live) [data-m="la2-end"]{opacity:1}
 .ts:not(.is-live) [data-m="n2-obs"]{opacity:1;translate:0 0}
-.ts:not(.is-live) [data-m="n2-int"]{opacity:1;translate:0 0}
 .ts:not(.is-live) [data-m="n2-q"]{opacity:1;translate:0 0}
 .ts:not(.is-live) [data-m="n2-st-read"]{opacity:0}
 .ts:not(.is-live) [data-m="n2-st-write"]{opacity:0}
@@ -115,7 +113,6 @@
 .ts:not(.is-live) [data-m="la3"]{stroke-dashoffset:0}
 .ts:not(.is-live) [data-m="la3-end"]{opacity:1}
 .ts:not(.is-live) [data-m="n3-obs"]{opacity:1;translate:0 0}
-.ts:not(.is-live) [data-m="n3-int"]{opacity:1;translate:0 0}
 .ts:not(.is-live) [data-m="n3-q"]{opacity:1;translate:0 0}
 .ts:not(.is-live) [data-m="n3-st-read"]{opacity:0}
 .ts:not(.is-live) [data-m="n3-st-write"]{opacity:0}
@@ -157,7 +154,6 @@
 .ts:not(.is-live) [data-m="la4"]{stroke-dashoffset:0}
 .ts:not(.is-live) [data-m="la4-end"]{opacity:1}
 .ts:not(.is-live) [data-m="n4-obs"]{opacity:1;translate:0 0}
-.ts:not(.is-live) [data-m="n4-int"]{opacity:1;translate:0 0}
 .ts:not(.is-live) [data-m="n4-q"]{opacity:1;translate:0 0}
 .ts:not(.is-live) [data-m="n4-st-read"]{opacity:0}
 .ts:not(.is-live) [data-m="n4-st-write"]{opacity:0}
